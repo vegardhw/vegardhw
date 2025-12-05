@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vegardhw
-- 👀 I’m interested in enterprise architeture, cloud platforms, infrastructure-as-code, automation and everything Azure.
-- 📫 How to reach me: @vegardhw on Twitter.
+👋 Hi, I’m @vegardhw
+👀 I’m interested in infrastructure-as-code, home automation and everything Azure.
+📫 Send me a message @vhw.bsky.social
 
 <!---
 vegardhw/vegardhw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
